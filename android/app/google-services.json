@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997947256893",
+    "project_id": "praticeforcrud",
+    "storage_bucket": "praticeforcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997947256893:android:4f092b59d8c3b96167ba54",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGUcBMfO74sbG4b0Qzoae6d0TGInlbgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
